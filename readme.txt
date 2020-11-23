@@ -4,4 +4,4 @@ Git has s mutable index called stage.
 Git tracks changes of files.
 Git remote.
 Creting a new branch is quick.
-no ff.
+no ff merge.
